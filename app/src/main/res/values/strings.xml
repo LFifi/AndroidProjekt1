@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gra_memory</string>
+    <string name="powitanie">Game Memory</string>
+    <string name="button1">Zrób zdjecie</string>
+    <string name="button2">Graj</string>
+    <string name="title_activity_kamera">KameraActivity</string>
+</resources>
